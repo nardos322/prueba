@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    
+
+}
+
+.headerlogo {
+    height: 10vh;
+    
+    
+    
+    
+}
+
+#burger {
+    color: white;
+}
+
+main {
+    background-color: aqua;
+}
+.promocion {
+    width: 100%;
+    height: 50vh;
+    background-color: blanchedalmond;
+    padding: 20px;
+    
+}
+
+.promocion img {
+    width: 80px;
+    height: 30px;
+}
+
+ main p i{
+    color: blue;
+    
+}
+
+
+.carrusel {
+    width: 100%;
+    height: 50vh;
+    background-color: blue;
+}
+
+article p  {
+    margin: 0;
+    
+}
+
+article p b {
+    color: yellow;
+}
+
+article span {
+    border: solid 1px black;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+article input {
+    width: 40vw;
+    display: none;
+}
